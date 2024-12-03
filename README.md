@@ -1,5 +1,9 @@
 # JquantsApiClient
 
+[![Gem Version](https://img.shields.io/gem/v/jquants_api_client.svg)](https://rubygems.org/gems/jquants_api_client)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kiwamizamurai/jquants_api_client/blob/main/LICENSE.txt)
+[![Test](https://github.com/kiwamizamurai/jquants_api_client/actions/workflows/test.yaml/badge.svg)](https://github.com/kiwamizamurai/jquants_api_client/actions/workflows/test.yaml)
+
 J-Quants API Client for Ruby
 
 
