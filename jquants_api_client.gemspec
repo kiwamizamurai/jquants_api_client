@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Ruby client library for J-Quants API - providing access to Japanese financial market data}
   spec.description   = %q{A Ruby client library for interacting with the J-Quants API, providing easy access to Japanese financial market data including stock prices, corporate information, and financial statements. Supports authentication, data retrieval, and rate limiting.}
-  spec.homepage      = "https://github.com/kiwamizamurai/ruby-jquants/"
+  spec.homepage      = "https://github.com/kiwamizamurai/jquants_api_client/"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
